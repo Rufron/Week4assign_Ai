@@ -21,7 +21,7 @@ Gained insights into how AI automates coding, testing, and deployment, while pro
 
 👨‍💻 Contributors
 
-Brian Kipchumba
-Borchar Gatwetch
-Masaiwe Rufina
-Mary Karen Karumi
+Brian Kipchumba,
+Borchar Gatwetch,
+Masaiwe Rufina,
+Mary Karen Karumi.
