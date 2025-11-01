@@ -19,9 +19,9 @@ Future trends: AIOps (AI + DevOps)
 
 Gained insights into how AI automates coding, testing, and deployment, while promoting responsible and efficient software engineering practices.
 
-👨‍💻 Author
+👨‍💻 Contributors
 
 Brian Kipchumba
-🔗 GitHub – Rufron
-
-🔗 LinkedIn
+Borchar Gatwetch
+Masaiwe Rufina
+Mary Karen Karumi
